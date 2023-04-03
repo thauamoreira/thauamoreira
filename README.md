@@ -32,6 +32,9 @@ Tenho 10 anos de experiência na área de T.I com amplo conhecimento em Hardware
 - Análise de sistemas
 - Microsoft SQL Server
 
+###### Contatos: 
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/thau%C3%A3-moreira/)
+
 
 <!--
 **thauamoreira/thauamoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
