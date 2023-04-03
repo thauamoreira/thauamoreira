@@ -14,7 +14,7 @@ Tenho 10 anos de esperiencia na area de T.I com amplo conhecimento em Hardware e
 
 
 
-###### Desafios do dia a dia
+###### Dia a dia no trabalho
 - Fornecer suporte técnico avançado de alta qualidade para nossos clientes, garantindo que suas necessidades sejam atendidas e suas expectativas sejam superadas.
 - Resolver problemas técnicos relacionados ao uso do software, trabalhando em estreita colaboração com nossas equipes de desenvolvimento e qualidade.
 - Manusear banco de dados SQL, realizando consultas e execução de scripts de correção de erros.
