@@ -1,7 +1,7 @@
 ### Olá Pessoal! 👋
 
 ###### Sobre o Thauã
-Tenho 10 anos de esperiencia na area de T.I com amplo conhecimento em Hardware e correções de problemas do Windows. 
+Tenho 10 anos de experiência na área de T.I com amplo conhecimento em Hardware e correções de problemas do Windows. 
 
 - 🌱 Estudando atualmente programação e Cloud
 - 👨‍💻 Trabalho atualmente como Analista Técnico Avançado - JRII na Nextar
