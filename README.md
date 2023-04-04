@@ -7,11 +7,11 @@ Tenho 10 anos de experiência na área de T.I com amplo conhecimento em Hardware
 - 👨‍💻 Trabalho atualmente como Analista Técnico Avançado - JRII na Nextar
 - 💻 https://www.nextar.com.br/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thauamoreira&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thauamoreira&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thauamoreira&repo=Projeto-Tik-Tok&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thauamoreira&repo=Projeto-Tik-Tok)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thauamoreira&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thauamoreira&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
