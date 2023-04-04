@@ -4,7 +4,7 @@
 Tenho 10 anos de experiência na área de T.I com amplo conhecimento em Hardware e correções de problemas do Windows. 
 
 - 🌱 Estudando atualmente programação e Cloud
-- 👨‍💻 Trabalho atualmente como Analista Técnico Avançado - JRII na Nextar
+- 👨‍💻 Trabalho atualmente como Analista Técnico Avançado na Nextar
 - 💻 https://www.nextar.com.br/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thauamoreira&show_icons=true)
