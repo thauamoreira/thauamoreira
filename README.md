@@ -10,6 +10,8 @@ Tenho 10 anos de experiência na área de T.I com amplo conhecimento em Hardware
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thauamoreira&show_icons=true)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thauamoreira&repo=Projeto-Tik-Tok)](https://github.com/thauamoreira/Projeto-Tik-Tok)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thauamoreira&repo=my_page)](https://github.com/thauamoreira/my_page/My_Page/)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thauamoreira&hide_progress=true) 
 
